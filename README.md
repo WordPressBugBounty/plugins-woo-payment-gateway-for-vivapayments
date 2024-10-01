@@ -1,0 +1,1 @@
+# plugins-woo-payment-gateway-for-vivapayments
